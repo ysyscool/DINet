@@ -1,10 +1,5 @@
-enableTensorboard: True #
-test_during_training: True #
 
 ### database ###
-
-
-
 Salicon:
   shape_r: 320
   shape_c: 480
