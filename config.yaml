@@ -1,0 +1,15 @@
+enableTensorboard: True #
+test_during_training: True #
+
+### database ###
+
+
+
+Salicon:
+  shape_r: 320
+  shape_c: 480
+  imgs_train_path: /home/syang/ysdata/LSUN2015/train2014/
+  maps_train_path: /home/syang/ysdata/LSUN2015/maps/train/
+  imgs_val_path: /home/syang/ysdata/LSUN2015/val2014/
+  maps_val_path: /home/syang/ysdata/LSUN2015/maps/val/
+
