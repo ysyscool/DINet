@@ -34,8 +34,8 @@ Put the weights into
 cd models
 ```
 
-### train/test
-Download the Salicon dataset and modify the paths in config.yaml
+### Train/Test
+Download the SALICON 2015 dataset and modify the paths in config.yaml
 And then using the following command to train the model
 ```bash
 python main.py --phase=train --batch_size=10
@@ -47,7 +47,7 @@ And then using the following command to test the model
 python main.py --phase=test
 ```
 
-### evaluation on salicon dataset
+### Evaluation on SALICON dataset
 Please refer to this [link](https://github.com/NUS-VIP/salicon-evaluation). 
 
 ## Acknowledgments
