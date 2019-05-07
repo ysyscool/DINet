@@ -51,4 +51,4 @@ python main.py --phase=test
 Please refer to this [link](https://github.com/NUS-VIP/salicon-evaluation). 
 
 ## Acknowledgments
-Code borrows from [sam](https://https://github.com/marcellacornia/sam). 
+Code borrows from [sam](https://github.com/marcellacornia/sam). 
