@@ -2,7 +2,7 @@
 This repository contains the reference code for our TMM paper:
 [arXiv Paper Version](https://arxiv.org/pdf/1904.03571.pdf)
 
-Please cite with the following Bibtex code:
+If you use any part of our code, or DINet is useful for your research, please consider citing::
 ```
 @article{yang2019dilated,
   title={A Dilated Inception Network for Visual Saliency Prediction},
