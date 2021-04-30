@@ -5,10 +5,14 @@ This repository contains the reference code for our TMM paper:
 If you use any part of our code, or DINet is useful for your research, please consider citing::
 ```
 @article{yang2019dilated,
-  title={A Dilated Inception Network for Visual Saliency Prediction},
+  title={A dilated inception network for visual saliency prediction},
   author={Yang, Sheng and Lin, Guosheng and Jiang, Qiuping and Lin, Weisi},
-  journal={arXiv preprint arXiv:1904.03571},
-  year={2019}
+  journal={IEEE Transactions on Multimedia},
+  volume={22},
+  number={8},
+  pages={2163--2176},
+  year={2019},
+  publisher={IEEE}
 }
 ```
 
