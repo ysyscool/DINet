@@ -32,7 +32,7 @@ cd DINet
 mkdir models
 ```
 
-- Download weights from [Google Drive](https://drive.google.com/file/d/1o8RTCUpP08iDO7XdDbbiz3bW8vJfb6Yw/view?usp=sharing).
+- Download weights from [Google Drive](https://drive.google.com/file/d/1jvV9J8yZO24wfjTGq4b1ISXQ-jWs47yT/view?usp=drive_link).
 Put the weights into 
 ```bash
 cd models
